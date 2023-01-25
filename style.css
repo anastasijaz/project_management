@@ -1,4 +1,15 @@
+/*Style*/
+/* font family, sizes, colors*/
+
+footer {
+  align-items: center;
+}
+
+/*classes */
 .header {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
+}
+.project-info {
 }
