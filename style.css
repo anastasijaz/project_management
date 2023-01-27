@@ -1,8 +1,11 @@
 /*Style*/
 /* font family, sizes, colors*/
 
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+}
 footer {
-  align-items: center;
+  align-content: center;
 }
 
 /*classes */
@@ -11,4 +14,10 @@ footer {
   flex-direction: row;
   justify-content: space-around;
   align-items: flex-end;
+}
+.legend {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
