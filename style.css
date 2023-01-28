@@ -6,6 +6,7 @@ h1 {
 }
 footer {
   align-content: center;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 /*classes */
@@ -14,10 +15,12 @@ footer {
   flex-direction: row;
   justify-content: space-around;
   align-items: flex-end;
+  font-family: Helvetica, Arial, sans-serif;
 }
 .legend {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
+  font-family: Helvetica, Arial, sans-serif;
 }
