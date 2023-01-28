@@ -17,9 +17,13 @@ footer {
   color: #ffffff;
 }
 #button-get-in-touch {
+  display: flex;
+  align-items: center;
   text-align: center;
   padding: 5px;
   color: #ffffff;
+  border-color: #1db954;
+  border-radius: 10%;
 }
 #icon-container {
   align-items: center;
