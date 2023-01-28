@@ -11,8 +11,13 @@ footer {
   text-align: center;
   font-family: Helvetica, Arial, sans-serif;
 }
-#icon-container {
+#button-get-in-touch {
+  text-align: center;
+  padding: 5px;
+}
+#icon-grid {
   display: flex;
-  align-content: center;
+  flex-direction: row;
+  align-content: space-around;
   font-family: Helvetica, Arial, sans-serif;
 }
