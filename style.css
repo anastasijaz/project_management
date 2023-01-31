@@ -5,11 +5,13 @@ body {
 }
 h1 {
   font-family: Helvetica, Arial, sans-serif;
+  color: white;
 }
 footer {
   color: aqua;
   align-content: center;
   font-family: Helvetica, Arial, sans-serif;
+  color: white;
 }
 
 /*classes */
@@ -19,6 +21,7 @@ footer {
   justify-content: space-around;
   align-items: flex-end;
   font-family: Helvetica, Arial, sans-serif;
+  color: white;
 }
 .legend {
   display: flex;
@@ -26,4 +29,5 @@ footer {
   justify-content: flex-start;
   align-items: flex-start;
   font-family: Helvetica, Arial, sans-serif;
+  color: white;
 }
